@@ -1,0 +1,19 @@
+{
+	"name": "dusty-element",
+	"version": "1.0.0",
+	"description": "very simple Web Component powered by Dust.js templates",
+	"main": "dusty-element.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://archive.voodoowarez.com/dusty-element"
+	},
+	"keywords": ["webcomponents", "dustjs"],
+	"author": "rektide de la faye",
+	"license": "X11",
+	"dependencies": {
+		"dustjs-linkedin": "^2.7.5"
+	}
+}
